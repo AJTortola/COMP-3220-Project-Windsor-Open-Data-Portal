@@ -10,4 +10,4 @@ The Java Code for this project (mostly classes for Use Cases right now).
 # UML Use Cases
 UML Designs for some of the Use Cases.
 # Test Cases
-The Test Cases for a Use Cases.
+The Test Cases for Use Cases.
